@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**mohars7/mohars7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mohamed Rifi! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I'm excited to share my journey as I learn and grow in the world of tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* I'm currently studying **Web Application Development** (Higher Vocational Training 🇪🇸).
+* I'm passionate about building things for the web and always eager to learn new technologies.
+
+### 🔧 My Current Skills
+
+Here are some of the technologies I'm working with:
+
+* HTML5
+* CSS3
+* Kotlin
+
+### ⚽ Hobbies & Interests
+
+* Outside of coding, I'm a huge sports fan, especially **football**! 🥅
+
+### 🌱 Learning & Growing
+
+I'm using this GitHub to document my projects, practice my skills, and collaborate. Thanks for stopping by!
