@@ -1,19 +1,21 @@
+# ¡Hola! Soy Mohamed Rifi 👋
 
+<p align="center">
+  <img src="https://octodex.github.com/images/sheikhtocat.png" alt="Sheikhtocat" width="300"/>
+</p>
 
-# Hi there, I'm Mohamed Rifi! 👋
-
-Welcome to my GitHub profile. I'm excited to share my journey as I learn and grow in the world of tech.
+Bienvenido a mi perfil de GitHub. Estoy emocionado de compartir mi viaje mientras aprendo y crezco en el mundo de la tecnología.
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-* Actualmente estoy estudiando **Desarrollo de Aplicaciones Web** (Grado Superior 🇪🇸).
+* Actualmente estoy estudiando **Desarrollo de Aplicaciones Web** (Grado Superior) en el Institut Tecnòlogic de Barcelona.
 * Me apasiona construir cosas para la web y siempre estoy ansioso por aprender nuevas tecnologías.
 
-### 🔧 Mis Habilidades
+### 🔧 Tecnologías y Herramientas
 
-Aquí están las tecnologías "en grande" con las que estoy trabajando:
+Estas son algunas de las tecnologías con las que estoy trabajando:
 
 <p align="left">
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
@@ -25,11 +27,24 @@ Aquí están las tecnologías "en grande" con las que estoy trabajando:
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   </a>
+  
+  <br>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ### 📊 Mis Estadísticas en GitHub
 
-Estas son las "algunas más" que hacen que el perfil se vea profesional.
+Un vistazo a mi actividad:
+
+> **Nota Importante:** No olvides reemplazar `TU_USUARIO_DE_GITHUB` en las dos URLs de abajo por tu nombre de usuario real para que las estadísticas funcionen.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Mohamed Rifi" />
@@ -41,8 +56,8 @@ Estas son las "algunas más" que hacen que el perfil se vea profesional.
 
 ### ⚽ Hobbies e Intereses
 
-* Outside of coding, I'm a huge sports fan, especially **football**! 🥅
+* Fuera de la programación, soy un gran aficionado a los deportes, ¡especialmente al **fútbol**! 🥅
 
 ### 🌱 Aprendiendo y Creciendo
 
-I'm using this GitHub to document my projects, practice my skills, and collaborate. Thanks for stopping by!
+Estoy usando GitHub para documentar mis proyectos, practicar mis habilidades y colaborar. ¡Gracias por pasarte!
