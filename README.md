@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octocat.png" alt="Mascota de GitHub (Octocat)" width="200" align="right">
+
 
 # Hi there, I'm Mohamed Rifi! 👋
 
