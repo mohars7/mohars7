@@ -1,7 +1,7 @@
 # ¡Hola! Soy Mohamed Rifi 👋
 
 <p align="center">
-  <img src="https://octodex.github.com/images/sheikhtocat.png" alt="Sheikhtocat" width="300"/>
+  <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat" width="300"/>
 </p>
 
 Bienvenido a mi perfil de GitHub. Estoy emocionado de compartir mi viaje mientras aprendo y crezco en el mundo de la tecnología.
@@ -44,12 +44,11 @@ Estas son algunas de las tecnologías con las que estoy trabajando:
 
 Un vistazo a mi actividad:
 
-> **Nota Importante:** No olvides reemplazar `TU_USUARIO_DE_GITHUB` en las dos URLs de abajo por tu nombre de usuario real para que las estadísticas funcionen.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Mohamed Rifi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohars7/&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Mohamed Rifi" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohars7&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
 </p>
 
 ---
